@@ -315,14 +315,3 @@ $ = \frac{{{e^{\lambda \zeta }}\left( {{e^{\frac{\lambda }{\rho }}}{E_1}\left( {
 $ = \frac{{{e^{\lambda \left( {\zeta  + \frac{1}{\rho }} \right)}}{E_1}\left( {\lambda \zeta  + \frac{\lambda }{\rho }} \right)}}{{\lambda \ln 2}} + \frac{{\ln \left( {\rho \zeta + 1} \right)}}{{\lambda \ln 2}} = \frac{1}{\lambda }\left( {\frac{{{e^{\lambda \left( {\zeta  + \frac{1}{\rho }} \right)}}{E_1}\left( {\lambda \left( {\zeta  + \frac{1}{\rho }} \right)} \right)}}{{\ln 2}} + {{\log }_2}\left( {\rho \zeta  + 1} \right)} \right) $
 
 $ = \frac{1}{\lambda }\left( {R_1^{RT}\left( {\zeta  + \frac{1}{\rho }} \right) + {{\log }_2}\left( {\rho \zeta  + 1} \right)} \right)$
-
- nv
-
-
-**front matter:**
-
-    ---
-    ...
-    mathjax: true
-    mathjax_autoNumber: true
-    ---
