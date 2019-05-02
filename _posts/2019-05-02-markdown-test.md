@@ -1,5 +1,5 @@
 ---
-title: TeXt - MathJax
+title: # Achievable Rate Analysis of Opportunistic Transmission in Bursty Interference Networks (2018. 04. 25)
 key: 20170707
 tags: TeXt
 mathjax: true
@@ -29,8 +29,6 @@ When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
 $$x_1 = {-b + \sqrt{b^2-4ac} \over 2a}$$
 $$x_2 = {-b - \sqrt{b^2-4ac} \over 2a} \notag$$
 ```
-
-# Achievable Rate Analysis of Opportunistic Transmission in Bursty Interference Networks (2018. 04. 25)
 
 ## System Model
 
